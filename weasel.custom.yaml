@@ -1,0 +1,20 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.11.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Jun 26 15:04:49 2018"
+  rime_version: 1.3.0
+patch:
+  "style/display_tray_icon": true
+  "style/color_scheme": brisk
+  "style/horizontal": true
+  "style/font_face": "Microsoft YaHei" 
+  "style/font_point": 13
+  app_options/gvim.exe:
+    ascii_mode: true
+  app_options/pycharm64.exe:
+    ascii_mode: true
+  app_options/notepad++.exe:
+    ascii_mode: true
+  app_options/sublime_text.exe:
+    ascii_mode: true
